@@ -5,3 +5,10 @@ D:\MVVM\MinhVu_OnTapC-\BaiTap02\bin\Debug\BaiTap02.exe
 D:\MVVM\MinhVu_OnTapC-\BaiTap02\bin\Debug\BaiTap02.pdb
 D:\MVVM\MinhVu_OnTapC-\BaiTap02\obj\Debug\BaiTap02.exe
 D:\MVVM\MinhVu_OnTapC-\BaiTap02\obj\Debug\BaiTap02.pdb
+D:\MVVM\00_OnTap\BaiTap02\bin\Debug\BaiTap02.exe.config
+D:\MVVM\00_OnTap\BaiTap02\bin\Debug\BaiTap02.exe
+D:\MVVM\00_OnTap\BaiTap02\bin\Debug\BaiTap02.pdb
+D:\MVVM\00_OnTap\BaiTap02\obj\Debug\BaiTap02.csproj.AssemblyReference.cache
+D:\MVVM\00_OnTap\BaiTap02\obj\Debug\BaiTap02.csproj.CoreCompileInputs.cache
+D:\MVVM\00_OnTap\BaiTap02\obj\Debug\BaiTap02.exe
+D:\MVVM\00_OnTap\BaiTap02\obj\Debug\BaiTap02.pdb

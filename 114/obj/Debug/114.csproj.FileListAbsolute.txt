@@ -1,0 +1,7 @@
+D:\MVVM\MinhVu_OnTapC-\114\bin\Debug\114.exe.config
+D:\MVVM\MinhVu_OnTapC-\114\bin\Debug\114.exe
+D:\MVVM\MinhVu_OnTapC-\114\bin\Debug\114.pdb
+D:\MVVM\MinhVu_OnTapC-\114\obj\Debug\114.csproj.AssemblyReference.cache
+D:\MVVM\MinhVu_OnTapC-\114\obj\Debug\114.csproj.CoreCompileInputs.cache
+D:\MVVM\MinhVu_OnTapC-\114\obj\Debug\114.exe
+D:\MVVM\MinhVu_OnTapC-\114\obj\Debug\114.pdb

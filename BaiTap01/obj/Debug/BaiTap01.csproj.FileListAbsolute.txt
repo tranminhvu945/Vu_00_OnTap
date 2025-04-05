@@ -1,0 +1,7 @@
+D:\MVVM\MinhVu_OnTapC-\BaiTap01\bin\Debug\BaiTap01.exe.config
+D:\MVVM\MinhVu_OnTapC-\BaiTap01\bin\Debug\BaiTap01.exe
+D:\MVVM\MinhVu_OnTapC-\BaiTap01\bin\Debug\BaiTap01.pdb
+D:\MVVM\MinhVu_OnTapC-\BaiTap01\obj\Debug\BaiTap01.csproj.AssemblyReference.cache
+D:\MVVM\MinhVu_OnTapC-\BaiTap01\obj\Debug\BaiTap01.csproj.CoreCompileInputs.cache
+D:\MVVM\MinhVu_OnTapC-\BaiTap01\obj\Debug\BaiTap01.exe
+D:\MVVM\MinhVu_OnTapC-\BaiTap01\obj\Debug\BaiTap01.pdb

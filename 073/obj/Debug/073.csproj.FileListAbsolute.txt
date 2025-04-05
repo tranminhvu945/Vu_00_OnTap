@@ -1,0 +1,7 @@
+D:\MVVM\MinhVu_OnTapC-\073\bin\Debug\073.exe.config
+D:\MVVM\MinhVu_OnTapC-\073\bin\Debug\073.exe
+D:\MVVM\MinhVu_OnTapC-\073\bin\Debug\073.pdb
+D:\MVVM\MinhVu_OnTapC-\073\obj\Debug\073.csproj.AssemblyReference.cache
+D:\MVVM\MinhVu_OnTapC-\073\obj\Debug\073.csproj.CoreCompileInputs.cache
+D:\MVVM\MinhVu_OnTapC-\073\obj\Debug\073.exe
+D:\MVVM\MinhVu_OnTapC-\073\obj\Debug\073.pdb
